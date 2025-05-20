@@ -98,3 +98,4 @@ Example Responses:
 > ```
 
 ## UML Sequence Diagram
+![UML Sequence Diagram](UML_Microservice_A.png)
